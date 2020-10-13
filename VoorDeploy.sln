@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoorDeploy", "VoorDeploy.csproj", "{EBF59E21-EC47-4DE5-BB62-E1DF2F4553FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF59E21-EC47-4DE5-BB62-E1DF2F4553FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF59E21-EC47-4DE5-BB62-E1DF2F4553FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF59E21-EC47-4DE5-BB62-E1DF2F4553FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF59E21-EC47-4DE5-BB62-E1DF2F4553FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB600FE5-3467-4526-B491-CE36DA131880}
+	EndGlobalSection
+EndGlobal
